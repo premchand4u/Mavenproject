@@ -33,14 +33,13 @@ height:400px;
 <img src="https://transit.avivaromm.com/wp-content/uploads/2017/10/coursesbackground-1-1480x586.png" width="1300" height="550">
 <div class="container">
 <h1>WELCOME TO DEVOPS TRAINING</h1>
-<h1>Created by Prem</h1>
-
+<h2>Created by Prem</h2>
 <br>
 <h2>Contact us:-</h2>
 
 <h2>Polarapu Prasad</h2>
 <h2>+91-8383917484</h2>
-
+</br>
 </div>
 </div>
 </body>
